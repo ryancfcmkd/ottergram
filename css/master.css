@@ -1,3 +1,25 @@
 h1{
   font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+body {
+font-size: 10px;
+background: rgb(149, 194, 215);
+}
+
+a {
+  text-decoration: none;
+  color: red
+}
+
+.logo-text{
+  background: white;
+  font-family:'Lobster', cursive;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 37px;
+}
+.thumbnail-item1, .thumbnail-item2, .thumbnail-item3, .thumbnail-item4, .thumbnail-item5{
+  border: 1px solid rgba(100%, 100%, 100%, 0.8);
 }
